@@ -183,6 +183,10 @@ body {
     .secundario__imagem {
         width: 50vw;
     }
+    
+    .dispositivos__titulo {
+        margin: 1em 1em;
+    }
 
     .dispositivos__lista {
         display: block;
@@ -190,5 +194,9 @@ body {
 
     .rodape__lista {
         display: block;
+    }
+    
+    .rodape__texto {
+        margin: 3em 3em;
     }
 }
