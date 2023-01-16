@@ -1,3 +1,3 @@
 # Athletic-plus
 
-Site sobre fisiculturismo
+Site sobre competições de fisiculturismo e dicas de treino. 
