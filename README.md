@@ -1,3 +1,3 @@
-# Atheletic-plus
+# Athletic-plus
 
 Site sobre fisiculturismo
